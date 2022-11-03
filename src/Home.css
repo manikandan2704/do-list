@@ -1,0 +1,17 @@
+ h3{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    
+}
+a{
+   
+    background-color: beige;
+    line-height: 46px;
+    border-radius: 7px
+}
